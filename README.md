@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am Abbas, a Software Engineering student with a GPA of 18.20 at Shiraz University. With over 3.5 years of experience in front-end development, I currently work as a developer at Cafearz and Revaal Soft. I have been involved in developing accounting software and online currency exchange websites, with skills in algorithm-based coding, RESTful APIs, and project management using tools like Jira and Trello. My passion for technology started at a young age, and I am always eager to learn and improve my skills.
+I am Abbas, a Software Engineering student with a GPA of 19.05 at Shiraz University. With over 3.5 years of experience in front-end development, I currently work as a developer at Cafearz and Revaal Soft. I have been involved in developing accounting software and online currency exchange websites, with skills in algorithm-based coding, RESTful APIs, and project management using tools like Jira and Trello. My passion for technology started at a young age, and I am always eager to learn and improve my skills.
 
 
 ## 🌐 Socials:
